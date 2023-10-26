@@ -13,5 +13,15 @@
     height: 200px;
     margin: 24px;
     padding: 24px;
+    font-family: arial;
+}
+img {
+    width: 100%;
+}
+.pink {
+    background-color: aqua;
+    color: white;
     font-family: fantasy;
+    border: 12px ridge white;
+    height: auto;
 }
