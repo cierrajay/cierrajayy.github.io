@@ -6,3 +6,143 @@
 
     Good luck, and have fun!
 */
+.tetris-block {
+    border-width: 10px;
+    border-style: outset;
+    display: inline-block;
+    padding: 15px;
+}
+
+.pink {
+    background-color: pink;
+    border-color: #ffbbbb;
+}
+.purple {
+    background-color: purple;
+    border-color: #800080;
+}
+.blue {
+    background-color: blue;
+    border-color: #0000ff;
+}
+.gray {
+    background-color: gray;
+    border-color: #808080;
+}
+.orange {
+    background-color: orange;
+    border-color: #ffa500;
+}
+.pink {
+    background-color: pink;
+    border-color: #ffbbbb;
+}
+.purple {
+    background-color: purple;
+    border-color: #800080;
+}
+.blue {
+    background-color: blue;
+    border-color: #0000ff;
+}
+.gray {
+    background-color: gray;
+    border-color: #808080;
+}
+.orange {
+    background-color: orange;
+    border-color: #ffa500;
+}
+.teal {
+    background-color: teal;
+    border-color: teal;
+}
+.red {
+    background-color: red;
+    border-color: red;
+}
+.white {
+    background-color: white;
+    border-color: white;
+}
+.gray {
+    background-color: gray;
+    border-color: #808080;
+}
+.green {
+    background-color: green;
+    border-color: green;
+}
+.yellow {
+    background-color: yellow;
+    border-color: yellow;
+}
+.teal {
+    background-color: teal;
+    border-color: teal;
+}
+.red {
+    background-color: red;
+    border-color: red;
+}
+.white {
+    background-color: white;
+    border-color: white;
+}
+.gray {
+    background-color: gray;
+    border-color: #808080;
+}
+.green {
+    background-color: green;
+    border-color: green;
+}
+.yellow {
+    background-color: yellow;
+    border-color: yellow;
+}
+.teal {
+    background-color: teal;
+    border-color: teal;
+}
+.black {
+    background-color: black;
+    border-color: black;
+}
+.yellowgreen {
+    background-color: yellowgreen;
+    border-color: yellowgreen;
+}
+.navy {
+    background-color: navy;
+    border-color: navy;
+}
+.brown {
+    background-color: brown;
+    border-color: brown;
+}
+.tan {
+    background-color: tan;
+    border-color: tan;
+}
+.black {
+    background-color: black;
+    border-color: black;
+}
+.yellowgreen {
+    background-color: yellowgreen;
+    border-color: yellowgreen;
+}
+.navy {
+    background-color: navy;
+    border-color: navy;
+}
+.brown {
+    background-color: brown;
+    border-color: brown;
+}
+.tan {
+    background-color: tan;
+    border-color: tan;
+}
+
