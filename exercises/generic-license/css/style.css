@@ -6,4 +6,45 @@
 
     Good luck, and have fun!
 */
-<d
+#license {
+    background-color: orange;
+    border: 2px solid black;
+    width: 700px;
+}
+
+#data-left, #data-right {
+    display: inline-block;
+}
+
+#small-pic, #data-field {
+    display: inline-block;
+}
+
+#id-and-expiration div {
+    display: inline-block
+    color: navy blue;
+}
+
+#signature {
+    text-align: center;
+    padding: 4px;
+}
+
+#donor, #real-id {
+    display: inline-block;
+}
+
+#right-side img {
+    width: 250px;
+}
+
+#right-side {
+    text-align: center;
+}
+
+#span, #donor {
+    color: red;
+    font-style: bold;
+    text-align: center;
+}
+
